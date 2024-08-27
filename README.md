@@ -13,7 +13,7 @@
 
 ![image](https://github.com/user-attachments/assets/b73cf1b0-4116-4905-88ac-d76d75940795)
 
-After resolving the repoerted problem, respond to the ticket and close it.
+After resolving the reported problem, respond to the ticket and close it.
 
 ![image](https://github.com/user-attachments/assets/24405f8a-f632-44a4-88b6-548120c21555)
 
